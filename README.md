@@ -1,6 +1,7 @@
 # AutoClicker
 
 A customizable auto-clicker application with a graphical user interface built in Python. This tool allows you to automate mouse clicks with adjustable speed and positioning options.
+It achieved about 60 CPS on a 1 second clicks/second test and a consistent 58 for other longer tests. 
 
 ## Features
 
